@@ -8,6 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: N/A
 github_username: eEqualsMxC 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # false
 
 theme: jekyll-theme-minimal
